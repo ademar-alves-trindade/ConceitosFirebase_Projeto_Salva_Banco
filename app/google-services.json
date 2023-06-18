@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746777025413",
+    "project_id": "conceitosfirebase",
+    "storage_bucket": "conceitosfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746777025413:android:72049147bbffe414a102ec",
+        "android_client_info": {
+          "package_name": "br.com.ademar.conceitosfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746777025413-c6lcroq7cbhtera5tar95d0qge1imq9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDspJE16ODHloBG7kOJeo8-9d9jLhGZLgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746777025413-c6lcroq7cbhtera5tar95d0qge1imq9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
